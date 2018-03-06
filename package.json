@@ -16,7 +16,7 @@
     "node": "6.13.0"
   },
   "scripts": {
-  "node": "index.js"
+  "start": "node index.js"
 }
 
 }
